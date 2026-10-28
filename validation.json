@@ -1,0 +1,296 @@
+{
+  "validated_date": "2026-10-28",
+  "python": "3.12.14",
+  "execution": "Fresh Jupyter kernel from raw sources; no cache-only execution",
+  "code_cells_executed": 6,
+  "saved_errors": 0,
+  "source_manifest_sha256": "e30b38b4205281f36288aa9bd9912ccabba8efc235f07970c3f51fc8d82bc5d5",
+  "analysis_sha256": "b3e146754393ac79ca879915bbd2020477e5fda6e9fd53cf19ea5b02954d4674",
+  "notebook_sha256": "d2d612da1d784bf4ea8ca58d4797d5141af9540e264f2a8171b9ccbb58287b47",
+  "results": {
+    "raw_rows": 1207458,
+    "source_files": 25,
+    "exact_duplicates_removed_within_file": 1202,
+    "rows_after_within_file_deduplication": 1206256,
+    "cross_release_repeated_row_hashes": 0,
+    "invalid_start_dates": 0,
+    "valid_dates_outside_scope": 0,
+    "analysis_records": 1206256,
+    "first_date": "2021-01-20",
+    "last_date": "2023-12-31",
+    "months_present": 36,
+    "missing_by_selected_field": {
+      "Appointment Start Date": 0,
+      "Meeting Location": 0,
+      "Appointment Cancel Date": 1205441
+    },
+    "cancel_field_nonmissing": 815,
+    "cancel_field_parsed": 812,
+    "inventory": [
+      {
+        "file": "2021_WAVES-ACCESS-RECORDS White House.csv",
+        "rows": 41412,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 7,
+        "invalid_start_dates": 0,
+        "sha256": "f64f9dd87f857b3fef78e01bf6c9dfd31cda36a49cf5b0b4aa75c457f39162e7"
+      },
+      {
+        "file": "2022.01_WAVES-ACCESS-RECORDS.csv",
+        "rows": 1185,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 1,
+        "invalid_start_dates": 0,
+        "sha256": "53da0afb175c32c3f1be44803e7f98666720145e912fdb80ac95554915f2992e"
+      },
+      {
+        "file": "2022.02_WAVES-ACCESS-RECORDS.csv",
+        "rows": 2155,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 0,
+        "invalid_start_dates": 0,
+        "sha256": "ae1ba1df0b7890f14ef71be2cf65a62e97d641d1e71fc5d6bfc69d660855dd09"
+      },
+      {
+        "file": "2022.03_WAVES-ACCESS-RECORDS-.csv",
+        "rows": 6065,
+        "columns": 29,
+        "exact_duplicates_removed_within_file": 2,
+        "invalid_start_dates": 0,
+        "sha256": "c310aac0a96e328db6ca6b36401b6de9a7fbb26bba3f8b2eab3812ec7a2a7480"
+      },
+      {
+        "file": "2022.04_WAVES-ACCESS-RECORDS.csv",
+        "rows": 13524,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 5,
+        "invalid_start_dates": 0,
+        "sha256": "3cba84f3b71ad69c8cf7a82077a88b847913cb1dedde04b0c33a265caada600e"
+      },
+      {
+        "file": "2022.05-WAVES-ACCESS-RECORDS.csv",
+        "rows": 20105,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 6,
+        "invalid_start_dates": 0,
+        "sha256": "cac3f6ecf9e4839764a5e30b9a082e7208e2259fe3e362a914f420897e848ccc"
+      },
+      {
+        "file": "2022.06_WAVES-ACCESS-RECORDS.csv",
+        "rows": 17400,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 4,
+        "invalid_start_dates": 0,
+        "sha256": "1e61f7cea8a80ec1aa86a25d4312e7021cdcd319409cf14407e26cf11d65f8a1"
+      },
+      {
+        "file": "2022.07_WAVES-ACCESS-RECORDS.csv",
+        "rows": 39780,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 20,
+        "invalid_start_dates": 0,
+        "sha256": "b4a45b90435b4122952658e69db15442fca121d66fc9a67520524dbdc1dc0e51"
+      },
+      {
+        "file": "2022.08_WAVES-ACCESS-RECORDS.csv",
+        "rows": 31055,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 20,
+        "invalid_start_dates": 0,
+        "sha256": "132f62f0948f24e42a6fb5ce099545fdcce25a14d6370c666ffdc4049b371d0b"
+      },
+      {
+        "file": "2022.09_WAVES-ACCESS-RECORDS.csv",
+        "rows": 37269,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 15,
+        "invalid_start_dates": 0,
+        "sha256": "62d63aa3cd333d62a360959267be316560e2cbf8f31e5ff9a4577385512aac0c"
+      },
+      {
+        "file": "2022.10_WAVES-ACCESS-RECORDS.csv",
+        "rows": 39293,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 16,
+        "invalid_start_dates": 0,
+        "sha256": "104f8e5d01ee789b70c4f2377bdf4ac9e03600f1fbd534b90d144851ac7e49f7"
+      },
+      {
+        "file": "2022.11_WAVES-ACCESS-RECORDS.csv",
+        "rows": 27938,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 9,
+        "invalid_start_dates": 0,
+        "sha256": "1a3d3a04f6c5f06e6870cb63c08fe517aa6f71ae83a0663538e2d7317004a3b0"
+      },
+      {
+        "file": "2022.12_WAVES-ACCESS-RECORDS.csv",
+        "rows": 87061,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 43,
+        "invalid_start_dates": 0,
+        "sha256": "a2d32b6c33982f8cf7750bc006739aa9e76869ae8b9192fc24b2b7f788cbe49f"
+      },
+      {
+        "file": "2023.01_WAVES-ACCESS-RECORDS.csv",
+        "rows": 34734,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 25,
+        "invalid_start_dates": 0,
+        "sha256": "14f7f479074455a43efbdb7da5a285b625719493ace22446298169c840fb1c55"
+      },
+      {
+        "file": "2023.02_WAVES-ACCESS-RECORDS.csv",
+        "rows": 45610,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 67,
+        "invalid_start_dates": 0,
+        "sha256": "441ff2a38c54ea021c716beec88ff9d6054e1ae0bde7caa7c9bf74658a4d17ad"
+      },
+      {
+        "file": "2023.03_WAVES-ACCESS-RECORDS.csv",
+        "rows": 69770,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 136,
+        "invalid_start_dates": 0,
+        "sha256": "dc4e97471b9e0e36af8bf5423ddcc4694923724aff76afd80b1cbec750e24646"
+      },
+      {
+        "file": "2023.04_WAVES-ACCESS-RECORDS.csv",
+        "rows": 69858,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 117,
+        "invalid_start_dates": 0,
+        "sha256": "1b12408809bb486b80e519d84657a6d1daea0586ddec6eea7ee9da274937f346"
+      },
+      {
+        "file": "2023.05_WAVES-ACCESS-RECORDS.csv",
+        "rows": 83402,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 112,
+        "invalid_start_dates": 0,
+        "sha256": "19ff6a4fc863685fb361b84f74d55c6f52d23bcaa93bc2f0bf2ad089ba186fea"
+      },
+      {
+        "file": "2023.06_WAVES-ACCESS-RECORDS.csv",
+        "rows": 94836,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 88,
+        "invalid_start_dates": 0,
+        "sha256": "015c8f17d3d59c9b7ec90f38da5cc978fa9259e38293ee751519cacc5bef0fa2"
+      },
+      {
+        "file": "2023.07_WAVES-ACCESS-RECORDS.csv",
+        "rows": 84905,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 131,
+        "invalid_start_dates": 0,
+        "sha256": "cfadc7266ec21e651a7fcae79b2b9036af71a73c42494c319f6d23a42df31f84"
+      },
+      {
+        "file": "2023.08_WAVES-ACCESS-RECORDS.csv",
+        "rows": 44452,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 57,
+        "invalid_start_dates": 0,
+        "sha256": "5a20af94b580c9233337d923de57d799c6d9d64e4a04fcb776049accf1c37a06"
+      },
+      {
+        "file": "2023.09_WAVES-ACCESS-RECORDS.csv",
+        "rows": 70308,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 83,
+        "invalid_start_dates": 0,
+        "sha256": "4b9cfe05201650278976aba1cb66b288533588446400143646157f69d71f3d9a"
+      },
+      {
+        "file": "2023.10_WAVES-ACCESS-RECORDS.csv",
+        "rows": 83315,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 48,
+        "invalid_start_dates": 0,
+        "sha256": "1fcbbbc912dbdc2407a124075ce45d2a66e755e63c19a2714389be9dd2a01ae0"
+      },
+      {
+        "file": "2023.11_WAVES-ACCESS-RECORDS.csv",
+        "rows": 39888,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 32,
+        "invalid_start_dates": 0,
+        "sha256": "53205051c6e82540d073e6b7bbe0c8323b5fbb746ad68194361328833dd5929f"
+      },
+      {
+        "file": "2023.12_WAVES-ACCESS-RECORDS.csv",
+        "rows": 122138,
+        "columns": 27,
+        "exact_duplicates_removed_within_file": 158,
+        "invalid_start_dates": 0,
+        "sha256": "8c30977d34321a5a90a569ae8aba454b79610ca137335a2f7dc45d6cc29ffc8a"
+      }
+    ],
+    "annual_records": {
+      "2021": 41405,
+      "2022": 322689,
+      "2023": 842162
+    },
+    "monthly_peak": {
+      "month": "2023-12",
+      "records": 121980
+    },
+    "monthly_low": {
+      "month": "2021-01",
+      "records": 400
+    },
+    "leading_location": {
+      "code": "WH",
+      "records": 980186,
+      "pct": 81.25853881763075
+    },
+    "days_with_records": 1053,
+    "daily_median_among_observed_days": 330.0,
+    "daily_p95_among_observed_days": 4021.5999999999995,
+    "largest_day_records": 11205,
+    "peak_day_to_median_ratio": 33.95454545454545,
+    "raw_sources_unchanged": true
+  },
+  "source_acquisition_test": {
+    "verified_date": "2026-10-28",
+    "all_source_urls_downloaded_and_hash_matched": true,
+    "files_verified": 25
+  },
+  "original_notebook_preserved_sha256": "be00fa07890b96802a7ae9c6e883ce36fe2868544caca29f0788cd3a1b5a4486",
+  "visual_qa": {
+    "figures_checked": 4,
+    "status": "Labels, scales, caveats, and privacy checked visually; no clipping observed."
+  },
+  "release_gates": {
+    "notebook_schema_valid": true,
+    "execution_counts_sequential": true,
+    "embedded_figures": 4,
+    "local_readme_links_exist": true,
+    "raw_inputs_excluded": true,
+    "local_absolute_paths_absent": true,
+    "dependency_environment_pip_check": "No broken requirements found",
+    "dependency_resolution_dry_run": "Exact shared requirements resolved and all wheels downloaded successfully without installing"
+  },
+  "environment_notes": [
+    "The managed host emitted a psutil process-enumeration permission warning during kernel shutdown after successful execution. No saved code-cell errors occurred."
+  ],
+  "release_file_hashes": {
+    ".gitignore": "7c6b6c198050d9144412a8e31b69db6f7ec15b50ba2c56f7b13e31cc8562cd21",
+    "LICENSE": "57c8d94f68a854374709b11aa1f0c9c242ea9d1e7e472d5ea0e5779a54d15c67",
+    "README.md": "3dd51e50a19f1e85a01c85434b7373e1b30f38a3c366de45fee15ce3ca7533f8",
+    "analysis.py": "b3e146754393ac79ca879915bbd2020477e5fda6e9fd53cf19ea5b02954d4674",
+    "outputs/01_monthly_activity.png": "d9ae18e2dfdc07c20234d3dd1d9829b7f32df7f0e3d757af3c13d027faec4131",
+    "outputs/02_location_concentration.png": "050ae1147769a17ceed99c6dcb841ec43e45000187067c927a51b4c793374540",
+    "outputs/03_daily_workload_distribution.png": "ef85ec4e91fa814facbb274c0b81b57efb362ce6a0ed99cdc3abe4bd18c54a9e",
+    "outputs/04_calendar_coverage.png": "e6bfb9144b31695fd0c0137eab5dcff140d12136c79c8d2f46b92c58ee932d6d",
+    "outputs/calendar_activity.csv": "75c1cdb5b740eebadb19fd5b6c803b73aa4eab90e2599b144b64ab92a40522c8",
+    "outputs/location_summary.csv": "a7ff01df8ea5b77961c5fc550a01fb7a709fa9218dd4645528c484ba2250040c",
+    "outputs/metrics.json": "8be21145589e7c949f800e70054f3a014d7ea2aca262a9f9297e9c857fe880f3",
+    "outputs/monthly_activity.csv": "fe1533363cea8c5ecb28825859aa58ad9e1b71e70b04292bceed846948827bde",
+    "requirements.txt": "3331c7a74772a72ffdb03582449685a91bdedce129e8832b70920e0616863fd4",
+    "sources.json": "e30b38b4205281f36288aa9bd9912ccabba8efc235f07970c3f51fc8d82bc5d5",
+    "white_house_visitor_operations.ipynb": "d2d612da1d784bf4ea8ca58d4797d5141af9540e264f2a8171b9ccbb58287b47"
+  }
+}

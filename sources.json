@@ -1,0 +1,135 @@
+{
+  "verified_date": "2026-10-28",
+  "source_page": "https://bidenwhitehouse.archives.gov/disclosures/visitor-logs/",
+  "policy": "https://bidenwhitehouse.archives.gov/voluntary-disclosure/",
+  "copyright": "https://bidenwhitehouse.archives.gov/copyright/",
+  "rights": "Government-produced materials are not copyright protected under the source policy. Public access does not remove privacy responsibilities: no individual records or identities are redistributed.",
+  "scope": "2021 annual file plus January\u2013December releases for 2022 and 2023 (25 files).",
+  "files": [
+    {
+      "file": "2021_WAVES-ACCESS-RECORDS White House.csv",
+      "sha256": "f64f9dd87f857b3fef78e01bf6c9dfd31cda36a49cf5b0b4aa75c457f39162e7",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/04/2021_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2022.01_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "53da0afb175c32c3f1be44803e7f98666720145e912fdb80ac95554915f2992e",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/2022.01_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2022.02_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "ae1ba1df0b7890f14ef71be2cf65a62e97d641d1e71fc5d6bfc69d660855dd09",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/2022.02_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2022.03_WAVES-ACCESS-RECORDS-.csv",
+      "sha256": "c310aac0a96e328db6ca6b36401b6de9a7fbb26bba3f8b2eab3812ec7a2a7480",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/07/2022.03_WAVES-ACCESS-RECORDS-.csv"
+    },
+    {
+      "file": "2022.04_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "3cba84f3b71ad69c8cf7a82077a88b847913cb1dedde04b0c33a265caada600e",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/2022.04_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2022.05-WAVES-ACCESS-RECORDS.csv",
+      "sha256": "cac3f6ecf9e4839764a5e30b9a082e7208e2259fe3e362a914f420897e848ccc",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/2022.05-WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2022.06_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "1e61f7cea8a80ec1aa86a25d4312e7021cdcd319409cf14407e26cf11d65f8a1",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/10/2022.06_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2022.07_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "b4a45b90435b4122952658e69db15442fca121d66fc9a67520524dbdc1dc0e51",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/10/2022.07_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2022.08_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "132f62f0948f24e42a6fb5ce099545fdcce25a14d6370c666ffdc4049b371d0b",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/11/2022.08_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2022.09_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "62d63aa3cd333d62a360959267be316560e2cbf8f31e5ff9a4577385512aac0c",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/12/2022.09_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2022.10_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "104f8e5d01ee789b70c4f2377bdf4ac9e03600f1fbd534b90d144851ac7e49f7",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/01/2022.10_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2022.11_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "1a3d3a04f6c5f06e6870cb63c08fe517aa6f71ae83a0663538e2d7317004a3b0",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/02/2022.11_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2022.12_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "a2d32b6c33982f8cf7750bc006739aa9e76869ae8b9192fc24b2b7f788cbe49f",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/03/2022.12_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2023.01_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "14f7f479074455a43efbdb7da5a285b625719493ace22446298169c840fb1c55",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/04/2023.01_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2023.02_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "441ff2a38c54ea021c716beec88ff9d6054e1ae0bde7caa7c9bf74658a4d17ad",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/05/2023.02_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2023.03_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "dc4e97471b9e0e36af8bf5423ddcc4694923724aff76afd80b1cbec750e24646",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/06/2023.03_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2023.04_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "1b12408809bb486b80e519d84657a6d1daea0586ddec6eea7ee9da274937f346",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/07/2023.04_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2023.05_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "19ff6a4fc863685fb361b84f74d55c6f52d23bcaa93bc2f0bf2ad089ba186fea",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/08/2023.05_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2023.06_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "015c8f17d3d59c9b7ec90f38da5cc978fa9259e38293ee751519cacc5bef0fa2",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/09/2023.06_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2023.07_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "cfadc7266ec21e651a7fcae79b2b9036af71a73c42494c319f6d23a42df31f84",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/10/2023.07_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2023.08_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "5a20af94b580c9233337d923de57d799c6d9d64e4a04fcb776049accf1c37a06",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/11/2023.08_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2023.09_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "4b9cfe05201650278976aba1cb66b288533588446400143646157f69d71f3d9a",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2023/12/2023.09_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2023.10_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "1fcbbbc912dbdc2407a124075ce45d2a66e755e63c19a2714389be9dd2a01ae0",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/01/2023.10_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2023.11_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "53205051c6e82540d073e6b7bbe0c8323b5fbb746ad68194361328833dd5929f",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/02/2023.11_WAVES-ACCESS-RECORDS.csv"
+    },
+    {
+      "file": "2023.12_WAVES-ACCESS-RECORDS.csv",
+      "sha256": "8c30977d34321a5a90a569ae8aba454b79610ca137335a2f7dc45d6cc29ffc8a",
+      "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/03/2023.12_WAVES-ACCESS-RECORDS.csv"
+    }
+  ]
+}
